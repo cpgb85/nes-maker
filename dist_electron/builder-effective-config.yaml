@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08666c3a0879fa6ffe6e7f4091c9ba87a8de7579d12e9af42138a12a890ffe1a
-size 160
+directories:
+  output: dist_electron
+  buildResources: build
+  app: dist_electron/bundled
+files:
+  - filter:
+      - '**'
+extends: null
+electronVersion: 16.2.8

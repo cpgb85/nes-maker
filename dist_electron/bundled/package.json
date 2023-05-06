@@ -1,3 +1,37 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5285718238b1489af0076ea5573c9e5e0f381df8394d8be01414a55aef3ca9ec
-size 1057
+{
+  "name": "nes-maker",
+  "description": "NES Maker",
+  "author": "Caleb Prenger",
+  "version": "0.1.1",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "electron:build": "vue-cli-service electron:build",
+    "electron:serve": "vue-cli-service electron:serve",
+    "postinstall": "electron-builder install-app-deps",
+    "postuninstall": "electron-builder install-app-deps"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "axios": "^1.3.6",
+    "electron": "^16.0.0",
+    "electron-devtools-installer": "^3.1.0",
+    "lodash": "^4.17.21",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "vue-cli-plugin-electron-builder": "^3.0.0-alpha.4",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "webpack-plugin-vuetify": "^2.0.0-alpha.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}

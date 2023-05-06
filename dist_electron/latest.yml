@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88c3ccaa1ff2336f277ad6d1712d1af3205951782643c0ccd34511c7a939ab57
-size 346
+version: 0.1.1
+files:
+  - url: nes-maker-Setup-0.1.1.exe
+    sha512: apyNF4enEZq+x3FaGTW4WPukNG9xHHzYC0PtHvitBKIAz2o8qFs9NL08WmSkoqeNtMBamog3lrGkt3SzMBGC1g==
+    size: 63002485
+path: nes-maker-Setup-0.1.1.exe
+sha512: apyNF4enEZq+x3FaGTW4WPukNG9xHHzYC0PtHvitBKIAz2o8qFs9NL08WmSkoqeNtMBamog3lrGkt3SzMBGC1g==
+releaseDate: '2023-05-06T06:05:22.819Z'
