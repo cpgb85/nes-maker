@@ -1,8 +1,8 @@
-version: 0.1.1
+version: 0.1.2
 files:
-  - url: nes-maker-Setup-0.1.1.exe
-    sha512: apyNF4enEZq+x3FaGTW4WPukNG9xHHzYC0PtHvitBKIAz2o8qFs9NL08WmSkoqeNtMBamog3lrGkt3SzMBGC1g==
-    size: 63002485
-path: nes-maker-Setup-0.1.1.exe
-sha512: apyNF4enEZq+x3FaGTW4WPukNG9xHHzYC0PtHvitBKIAz2o8qFs9NL08WmSkoqeNtMBamog3lrGkt3SzMBGC1g==
-releaseDate: '2023-05-06T06:05:22.819Z'
+  - url: nes-maker-Setup-0.1.2.exe
+    sha512: I5zy5JfjaxhOVtAF87a36J9lVoFlsop5o/PFTwJA8kB+1vPnnZ/KPUCzN6ny+03KhmOXnSfV3WdaglEwdo9+ww==
+    size: 63002855
+path: nes-maker-Setup-0.1.2.exe
+sha512: I5zy5JfjaxhOVtAF87a36J9lVoFlsop5o/PFTwJA8kB+1vPnnZ/KPUCzN6ny+03KhmOXnSfV3WdaglEwdo9+ww==
+releaseDate: '2023-05-07T05:42:46.010Z'

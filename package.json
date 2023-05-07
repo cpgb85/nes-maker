@@ -1,8 +1,8 @@
 {
   "name": "nes-maker",
-  "description":"NES Maker",
-  "author":"Caleb Prenger",
-  "version": "0.1.1",
+  "description": "NES Maker",
+  "author": "Caleb Prenger",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -12,9 +12,8 @@
     "postinstall": "electron-builder install-app-deps",
     "postuninstall": "electron-builder install-app-deps"
   },
-
   "dependencies": {
-    "@mdi/font": "5.9.55",
+    "@mdi/font": "^5.9.55",
     "core-js": "^3.8.3",
     "dexie": "^3.2.3",
     "electron-builder": "^23.6.0",
